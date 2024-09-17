@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8629096-58B4-4328-8200-315C0B24B950}|Practica2\\Practica2.csproj|c:\\users\\crist_fmbbgue\\onedrive\\documentos\\tup\\progra2\\practica2\\practica2\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8629096-58B4-4328-8200-315C0B24B950}|Practica2\\Practica2.csproj|solutionrelative:practica2\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8629096-58B4-4328-8200-315C0B24B950}|Practica2\\Practica2.csproj|C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\practica2\\repositories\\implementations\\aplicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8629096-58B4-4328-8200-315C0B24B950}|Practica2\\Practica2.csproj|solutionrelative:practica2\\repositories\\implementations\\aplicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8629096-58B4-4328-8200-315C0B24B950}|Practica2\\Practica2.csproj|C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\practica2\\utilities\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8629096-58B4-4328-8200-315C0B24B950}|Practica2\\Practica2.csproj|solutionrelative:practica2\\utilities\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8629096-58B4-4328-8200-315C0B24B950}|Practica2\\Practica2.csproj|C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\practica2\\repositories\\contracts\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8629096-58B4-4328-8200-315C0B24B950}|Practica2\\Practica2.csproj|solutionrelative:practica2\\repositories\\contracts\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8629096-58B4-4328-8200-315C0B24B950}|Practica2\\Practica2.csproj|C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\practica2\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8629096-58B4-4328-8200-315C0B24B950}|Practica2\\Practica2.csproj|solutionrelative:practica2\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\Practica2\\Utilities\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Practica2\\Utilities\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\Practica2\\Utilities\\DataHelper.cs",
+              "RelativeToolTip": "Practica2\\Utilities\\DataHelper.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:49:11.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AplicacionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\Practica2\\Repositories\\Implementations\\AplicacionRepository.cs",
+              "RelativeDocumentMoniker": "Practica2\\Repositories\\Implementations\\AplicacionRepository.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\Practica2\\Repositories\\Implementations\\AplicacionRepository.cs",
+              "RelativeToolTip": "Practica2\\Repositories\\Implementations\\AplicacionRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwDoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:52:31.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\Practica2\\Repositories\\Contracts\\IAplicacion.cs",
+              "RelativeDocumentMoniker": "Practica2\\Repositories\\Contracts\\IAplicacion.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\Practica2\\Repositories\\Contracts\\IAplicacion.cs",
+              "RelativeToolTip": "Practica2\\Repositories\\Contracts\\IAplicacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:45:59.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\Practica2\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "Practica2\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\Practica2\\Models\\Article.cs",
+              "RelativeToolTip": "Practica2\\Models\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:42:14.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\Practica2\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Practica2\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica2\\Practica2\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "Practica2\\Controllers\\ArticlesController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwE8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:41:05.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
